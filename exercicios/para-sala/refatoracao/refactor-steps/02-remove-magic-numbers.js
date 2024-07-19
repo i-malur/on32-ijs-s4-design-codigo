@@ -159,3 +159,6 @@ function validCard (cardBrand, cardNumber, numberOfInstallments, cardExpirationD
   testCardBrand();
   testCardNumber();
   testInstalmments();
+
+
+// variáveis constantes ficam identificadas com LETRAS MAÍUSCULAS
